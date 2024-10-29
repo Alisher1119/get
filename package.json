@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "This package is used for getting object deep values.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Alisher1119/get"
+  },
   "scripts": {
     "build": "tsc",
     "test": "jest",
