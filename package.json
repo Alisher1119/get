@@ -1,5 +1,5 @@
 {
-  "name": "get-deep-key-value",
+  "name": "get-deep-value-by-key",
   "version": "1.0.0",
   "description": "This package is used for getting object deep values.",
   "main": "dist/index.js",

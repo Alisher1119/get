@@ -27,7 +27,7 @@ function get(object: any, path: string | Array<string | number>, defaultValue?: 
 You can install this package via npm:
 
 ```bash
-npm install get-deep-key-value
+npm install get-deep-value-by-key
 ```
 
 ## Testing
