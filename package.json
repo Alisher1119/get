@@ -1,6 +1,6 @@
 {
   "name": "get-deep-value-by-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package is used for getting object deep values.",
   "main": "dist/index.js",
   "repository": {
